@@ -1,0 +1,5 @@
+RewriteEngine on
+rewriteCond %{REQUEST_URI} !/publicity/ 
+rewriteCond %{REQUEST_URI} !/site/
+rewriteCond %{REQUEST_URI} !/_master/
+RewriteRule !\.(js|ico|gif|jpg|png|css)$ index.php

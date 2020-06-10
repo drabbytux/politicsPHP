@@ -1,0 +1,1 @@
+		<table width="700" border="1" cellspacing="2" cellpadding="0">			<tr>				<td colspan="2">{{A1}}</td>			</tr>			<tr>				<td width="258">{{A2}}</td>				<td>{{A3}}</td>			</tr>		</table>
